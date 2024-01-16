@@ -1,0 +1,49 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-sod {
+    padding-left: 20%;
+
+}
+
+.sod-header {
+    font-weight: bold;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.author-about {
+    float: left;
+}
+
+.author>img {
+    float: left;
+}
+
+li {
+    padding: 5px;
+}
+.links>img{
+    padding: 20px;
+}
+
+.circle {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+    text-align: center;
+    cursor: pointer;
+    margin: 5px;
+}
+.circle > a > img {
+    padding: 10px;
+}
+
+.circle:hover { background-color: peru;}
